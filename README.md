@@ -1,17 +1,10 @@
-# Revisions and the Cloud
+## Read: 02 - 
 
-## Seeing Your Remote
+## Revisions and the Cloud
 
-
-By running the git remote command, you can view the short names, such as “origin,” of all specified remote handles.
-
-By using git remote -v, you can view all the remote URLs next to their corresponding short names.
-
-$ cd example
-
-$ git remote -v
-
-## Adding Remotes
-To create a new remote Git repository with a short name, use the following format:
-
-git remote add shortname url
+Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes.
+what is Git? Git is a DVCS that stores data in a file system made up of snapshots.
+You can save the project and it can be modified, and after modification the changes can be tracked.
+Git traces its roots to the open source software project Linux kernel.
+It is explained how to download Git to the device and bundle it with as part of GitHub, but no suppository was requested.
+I learned how to stream data within Git and life Cycle ,and addition to creating a file and modifying it and all the things that follow that.
